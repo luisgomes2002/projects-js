@@ -7,3 +7,6 @@
 ## 3 carrossel de revisões  <br > <br >![image](https://github.com/luisgomes2002/projects-js/assets/85139913/adac5154-a9f7-4229-9d6a-2557892ef01b)
 
 ## 4 navbar responsiva  <br >  <br >![image](https://github.com/luisgomes2002/projects-js/assets/85139913/18cebf79-978e-4668-8a94-fa770c20d667)
+
+## 5 sidebar <br >  <br > ![image](https://github.com/luisgomes2002/projects-js/assets/85139913/39e45a6b-79c5-4e11-824a-29cb2ca875f3)
+
