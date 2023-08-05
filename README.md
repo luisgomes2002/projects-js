@@ -10,5 +10,6 @@
 
 ## 5 sidebar <br >  <br > ![image](https://github.com/luisgomes2002/projects-js/assets/85139913/39e45a6b-79c5-4e11-824a-29cb2ca875f3)
 
-## 6 modal <br /> <br /> ![Alt text](image.png)
+## 6 modal <br /> <br /> ![image](https://github.com/luisgomes2002/projects-js/assets/85139913/72f690a6-6c2f-4bac-a2f5-15f844a44513)
+
 
