@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'kumbh Sans', sans-serif;
+}
+
+.background {
+  position: relative;
+  background-image: url('./background.jpg');
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.background.filter {
+  filter: grayscale(1);
+}
+
+.modal-button {
+  background-color: white;
+  height: 250px;
+  width: 600px;
+  border-radius: 25px;
+  text-align: center;
+  box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.288), -10px -10px 10px 1px rgba(0, 0, 0, 0.288);
+}
+
+.modal-itens {
+  margin-top: 10%;
+}
+
+.modal-itens h1 {
+  font-size: 60px;
+}
+
+.modal-itens button {
+  border: none;
+  border-radius: 10px;
+  background-color: #49A6EA;
+  color: white;
+  width: 130px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.modal-itens button:hover {
+  background-color: #49a7ea96;
+  color: rgb(255, 255, 255);
+}
+
+.modal-area {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.modal {
+  background-color: white;
+  height: 150px;
+  width: 500px;
+  text-align: center;
+  visibility: hidden;
+  display: none;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.288), -10px -10px 10px 1px rgba(0, 0, 0, 0.288);
+}
+
+.modal h1 {
+  padding: 3%;
+}
+
+.modal.openModal {
+  display: block;
+  visibility: visible;
+}
+
+.modal button {
+  position: absolute;
+  top: 30px;
+  right: 8px;
+  background-color: transparent;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  color: red;
+}
