@@ -12,4 +12,5 @@
 
 ## 6 modal <br /> <br /> ![image](https://github.com/luisgomes2002/projects-js/assets/85139913/72f690a6-6c2f-4bac-a2f5-15f844a44513)
 
+## 7 perguntas frequentes <br /> <br /> ![image](https://github.com/luisgomes2002/projects-js/assets/85139913/16e82103-fcc7-4d3d-a9d6-aa7c189f26de)
 
