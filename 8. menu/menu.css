@@ -51,7 +51,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 0 20px 150px 20px;
-  margin: 50px 100px;
+  margin: 10% 10%;
 }
 
 .menu-item img {
@@ -75,4 +75,9 @@ img {
 
 .item-info h4 {
   font-size: 25px;
+}
+
+.filter-btn.clicked {
+  background-color: #000000;
+  color: #fff;
 }
