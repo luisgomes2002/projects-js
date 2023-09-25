@@ -1,0 +1,24 @@
+.stopwatch {
+  border: 1px solid #636664;
+  border-radius: 25px;
+  width: 700px;
+  text-align: center;
+  margin: 5%;
+  background-color: #363837;
+}
+
+h1 {
+  font-size: 120px;
+  color: #0ac23b;
+}
+
+button {
+  color: #0ac23b;
+  padding: 5px;
+  border: 2px solid #636664;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 20px;
+  width: 100px;
+  background-color: #636664;
+}
