@@ -1,0 +1,15 @@
+.gameArea {
+  background-color: rgb(61, 61, 61);
+  border-radius: 25px;
+  text-align: center;
+  padding: 5%;
+  color: aliceblue;
+}
+
+button {
+  border-radius: 25px;
+  margin: 10px;
+  font-size: 20px;
+  padding: 15px;
+  border: none;
+}
